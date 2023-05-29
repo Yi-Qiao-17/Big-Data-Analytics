@@ -1,4 +1,4 @@
-# Big-Data-Analytics2021
+# Big-Data-Analytics
 課程名稱：大數據資料分析<br><br>
 指導教授：簡廷因<br><br>
 |課程大綱|<br>
